@@ -17,8 +17,6 @@ cross-platform and native apps for iOS & Android.
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 ## 📌 Highlight
-> Reduced crash rate from **30% → ~0%** in a Bluetooth-based app 
-> through stability improvements and better error handling.
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vijay_Diyyala-blue?logo=linkedin)](https://linkedin.com/in/vijay-diyyala/)
