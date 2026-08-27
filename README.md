@@ -9,7 +9,7 @@ cross-platform and native apps for iOS & Android.
 - **Android Native**: Kotlin, Jetpack Compose
 - **Hardware Integration**: GPS, Bluetooth/BLE SDKs
 - **Shipped**: App Store & Play Store · TestFlight for iOS beta
-- **CI/CD: Github actions, Fastlane, Unit testing.
+- **CI/CD**: Github actions, Fastlane, Unit testing.
 
 ## 🛠️ Tech Stack
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react)
